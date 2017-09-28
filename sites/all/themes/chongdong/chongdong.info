@@ -1,0 +1,19 @@
+; $Id: chongdong.info,v 1.5 2007/07/01 23:27:32 goba Exp $
+name = ChongDong
+description = 虫洞网专用主题
+
+core   = 6.x
+engine = phptemplate
+
+regions[language_box]  = Language Box
+regions[banner_ad] = Banner
+regions[newsbox] = News Box
+regions[submenu] = Sub Menu
+regions[left] = Left sidebar
+regions[content]      = Content
+regions[footer]    = Footer
+
+stylesheets[all][] = style.css
+
+
+
